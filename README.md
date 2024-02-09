@@ -22,7 +22,7 @@ A real-time voting system where users can create a poll and other users can cast
 - Run application (`npm run dev`);
 - Test it! (I personally recommend testing with [Hoppscotch](https://hoppscotch.io/)).
 
-## Start proyect
+## Start project
 
 ```bash
 yarn dev
