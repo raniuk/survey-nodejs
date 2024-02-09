@@ -2,7 +2,7 @@
 
 Survey application with Nodejs - Fastify - Prisma
 
-# Project 
+# Project
 
 Event NLW Expert (Node.js)
 
@@ -24,3 +24,10 @@ A real-time voting system where users can create a poll and other users can cast
 
 ## Start proyect
 
+```bash
+yarn dev
+
+# Or
+
+npm run dev
+```
